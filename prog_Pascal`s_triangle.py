@@ -50,4 +50,4 @@ for i in range(n):
     
  
 #the above is the basic structure for pattern programming. 
-#Other values like start etc can be used to make good looking patterns.
+#Other values like star (*) etc can be used to make good looking patterns.
